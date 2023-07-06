@@ -1,0 +1,35 @@
+ 
+#frm{
+position: absolute;  
+    left: 20%;
+    top: 20%; 
+
+}
+ #frm1{
+position: absolute;  
+    left: 20%;
+    top: 50% 
+
+} 
+
+#frm2{
+position: absolute;  
+    left: 50%;
+     top: 20%;
+   
+
+}
+
+table, td, th {
+
+	border: 1px solid;
+}
+
+table {
+
+	width: 100%;
+  border-collapse: collapse;
+}
+a{
+	text-decoration: none;
+}
